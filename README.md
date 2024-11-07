@@ -3,11 +3,11 @@
 
 # PhD thesis title: 'Large benthic foraminifera under the pipette: method development and ecological assessment in the Spermonde Archipelago'
 
-Authored by Elsa B. Girard\
+Authored by Elsa B. Girard
 
-Affiliations:\
-- Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the Netherlands\
-- IBED, University of Amsterdam, Sciencepark 904, 1098 XH Amsterdam, the Netherlands\
+Affiliations:
+- Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the Netherlands
+- IBED, University of Amsterdam, Sciencepark 904, 1098 XH Amsterdam, the Netherlands
 
 
 ## Contact details: 
@@ -18,10 +18,11 @@ Postal address: Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the 
 ## Summary
 
 Coral reefs are described as the rainforest of the seas, because they form a marine hotspot of biodiversity. Clear-water reefs are the first image we have when we think about a coral reef; they are the most well-known reefs and best studied ones, owing to their mind-blowing beauty. However, some coral reefs live and thrive in murky waters; they are known as turbid reefs. Turbid reefs are also important to study because they might provide refugia for corals and other reef organisms in face of climatic instability, especially the rise of sea water temperature. To assess this concept and to monitor the dynamics of coral reefs over time and space, multiple methods were developed, including the use of bioindicator species. One group, large benthic foraminifera (LBF), has proven to be very useful in assessing environmental conditions in coral reefs. LBFs are millimetre-sized unicellular marine protists that contribute greatly to the carbonate production in coral reefs. \
-With this thesis, I contribute to the greater understanding of the ecology of LBF by the means of morphological and molecular data analysis. Compiling 25 years of research from turbid coral reefs located in the Spermonde Archipelago, South Sulawesi, Indonesia, I answer three main questions: \
-1) Can LBF communities be used as a warning signal for reef benthic community shift?\
-2) Can molecular methods be used to assess LBF community compositions reliably?\
-3) Which environmental factors trigger the spatial distribution of LBF species?\
+With this thesis, I contribute to the greater understanding of the ecology of LBF by the means of morphological and molecular data analysis. Compiling 25 years of research from turbid coral reefs located in the Spermonde Archipelago, South Sulawesi, Indonesia, I answer three main questions: 
+1) Can LBF communities be used as a warning signal for reef benthic community shift?
+2) Can molecular methods be used to assess LBF community compositions reliably?
+3) Which environmental factors trigger the spatial distribution of LBF species?
+
 LBF have a symbiotic relationship with microalgae, just like corals, but a fast community turnover rate compared to the long generation time of corals. Thus, the LBF community shifts more rapidly than corals during a change in environmental conditions. By looking at the LBF species composition and abundances in the ecosystem, we can therefore draw conclusions on the state of the reef benthic community. After introducing the topic with more details in Chapter 1, I analysed the temporal changes of the LBF community for the period 1997-2018, investigating the potential of LBF as warning signals for reef degradation in Chapter 2. Based on this morphological data, I additionally created a baseline of the biodiversity and ecology of LBF species.\
 Morphological identification and manual sorting of specimens are highly time consuming and require taxonomic knowledge, as some species are hardly distinguishable from each other. Technical innovations in molecular methods have made it possible to use DNA for foraminifera identification, via the use of DNA barcodes, i.e., short DNA fragments unique to a species. However, multiple biases work against obtaining a congruence between morphologically- and molecularly-assessed communities. The limitations lay partly in the choice of the DNA region used as barcodes, the completeness of the reference databases, methodological biases in the workflow, and biological differences between taxa. In Chapters 3 and 4, I studied the quality of a new mitochondrial gene, the cytochrome c oxidase subunit I, as potential molecular marker to improve community assessments through molecular methods such as metabarcoding. Further, I resolved some of the biases, especially biological ones, to develop a quantitative approach that relies on taxon-specific correction factors calculated from the density of mitochondrial gene copies. In Chapter 5, I pushed the boundaries of metabarcoding and enabled improved comparisons between the molecularly and morphologically inferred LBF communities. \
 To use LBF as a bioindicator species, it is however urgent to fill in knowledge gaps on how the distribution of LBF is affected by a change in environmental conditions. Until today, we do not fully understand the underlying mechanisms behind the specific effects of the water quality and the type of benthic habitat on the distribution of LBF taxa in space and time. We also do not know how the symbiotic partners function and participate in the resilience of the LBF. In Chapter 6, I explored the effect of turbidity and eutrophication, i.e., increased nutrient concentrations in the water, on the LBF community using molecular methods. My results showed that benthic communities in the shallow parts of the reef may be impacted more strongly by eutrophication, whereas the communities living deeper on the reef are more strongly affected by turbidity. Furthermore, in Chapter 7, I brought to light the intricate relationships some LBF have with their diatom and bacterial partners. I demonstrated that LBF have a host-specific relationship to diatoms, across large geographical distances, while bacterial partners are more flexible partners. To close this project, I synthesised my findings in Chapter 8 by underlining that not all LBF taxa are affected equally by the water quality and the type of benthic habitat. This hints towards the importance of the type of photosynthetic partners and the host’s tolerance to the environment. \
